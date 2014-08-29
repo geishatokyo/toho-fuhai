@@ -1,0 +1,38 @@
+────────────────────────────────────────
+【   曲  名   】夜桜
+【  ジャンル  】oriental
+【プレイレベル】5key     ★★★★★★★
+                7key
+                 light   ★★★★★
+                 normal  ★★★★★★★
+                 another ★★★★★★★★★
+【作･編曲/作詞】彩音(ねこみみ魔法使い)
+                 バーチャルネットDJ･ねここ14歳
+                  http://nekomimi.name/
+【   BMS製作  】〃
+【     歌     】小宮真央
+                 Asterisk@
+                  http://komiyamao.net/
+【作品ナンバー】-33-
+【 バージョン 】Ver 1.1
+【  最終調整  】2006/02/26
+【  使用機材  】YAMAHA MU500 / YAMAHA UW500 他
+【 使用ソフト 】BMS編集…………………………………BMx Sequence Editor 1.3.1
+                BMSテスト再生…………………………uBMplay 1.3.11
+                MIDI制作＆編集 WAVE録音＆編集……SOL V2.0.4J
+                WAVE編集 ………………………………YAMAHA Wave Editor TWE V2.4.4.7
+                WAVEレート変換 ………………………SCMPX version 1.5.1
+【  動作確認  】Delight Delight Reduplication Ver.0.50 beta5 pt7
+                nazoBMplay UnOfficial20031022版(ただしwave化必須)
+【   転載等   】転載禁止
+【    備考    】B.J.Cup 7th stage 登録楽曲
+                 http://www.bmsjournal.info/
+────────────────────────────────────────
+はい、そんなわけでねこみみ魔法使いでした。
+
+偽サイト用意して登録するという手の込みようでしたが
+曲の雰囲気で疑ってた人はいらっしゃいましたでしょうか？
+────────────────────────────────────────
+履歴
+2006/02/12 余裕で完成してるってステキ
+2006/02/26 譜面追加
